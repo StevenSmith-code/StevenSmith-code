@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
-- ☁️ I've keen interest in Front-end Development. So,I'm learning **NextJS**
+- ☁️ I've keen interest in Front-end Development. So I'm learning **NextJS**
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/stevensmithcode)
 

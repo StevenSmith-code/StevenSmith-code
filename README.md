@@ -4,7 +4,8 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Steven</h1></summary>
+  <img src="https://github.com/StevenSmith-code/StevenSmith-code/assets/86922292/c0c63600-52a3-4f82-bfa4-c1f8caf8a5d8"/>
+
   </ul>
 </div>
 
@@ -25,15 +26,17 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **NextJS, React, Rails, Nodejs, SQL**
+<div align="center">
+🔭 I’m currently working on **NextJS, React, Rails, Nodejs, SQL**
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+🌱 I’m currently learning **Full-Stack Web Development**
 
-- ☁️ I have a keen interest in Front-end Development. So I'm learning **NextJS**
+☁️ I have a keen interest in Front-end Development. So I'm learning **NextJS**
 
-- 📝 I regularly write articles on [Dev.to](https://dev.to/stevensmithcode)
+📝 I regularly write articles on [Dev.to](https://dev.to/stevensmithcode)
 
-- 📫 Feel free to reach me out **stevensmith3211@gmail.com**
+📫 Feel free to reach me out **stevensmith3211@gmail.com**
+</div>
 <!--Intro end-->
 
 

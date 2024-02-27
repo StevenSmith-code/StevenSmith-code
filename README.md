@@ -27,7 +27,7 @@
 
 <!--Intro start-->
 <div align="center">
-🔭 I’m currently working on **NextJS, React, Rails, Nodejs, SQL**
+🔭 I’m currently working on NextJS, React, Rails, Nodejs, SQL
 
 🌱 I’m currently learning **Full-Stack Web Development**
 

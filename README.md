@@ -33,8 +33,6 @@
 
 ☁️ I have a keen interest in Front-end Development. So I'm learning **NextJS**
 
-📝 I regularly write articles on [Dev.to](https://dev.to/stevensmithcode)
-
 📫 Feel free to reach me out **stevensmith3211@gmail.com**
 </div>
 <!--Intro end-->

@@ -26,14 +26,15 @@
 
 
 <!--Intro start-->
-<div align="center">
-🔭 I’m currently working on NextJS, React, Rails, Nodejs, SQL
+<div align="left">
 
-🌱 I’m currently learning **Full-Stack Web Development**
+<ul style="list-style-position: inside; text-align: center;">
+  <li>🔭 I’m currently working on <strong>NextJS, React, Rails, Node.js, SQL</strong></li>
+  <li>🌱 I’m currently learning <strong>Full-Stack Web Development</strong></li>
+  <li>☁️ I have a keen interest in <strong>Front-end Development</strong> and I'm currently focusing on learning <strong>NextJS</strong></li>
+  <li>📫 Feel free to reach out to me at <a href="mailto:stevensmith3211@gmail.com">stevensmith3211@gmail.com</a></li>
+</ul>
 
-☁️ I have a keen interest in Front-end Development. So I'm learning **NextJS**
-
-📫 Feel free to reach me out **stevensmith3211@gmail.com**
 </div>
 <!--Intro end-->
 
